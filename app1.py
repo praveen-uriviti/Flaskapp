@@ -40,7 +40,7 @@ userlist = [
  },
 {
   "ID": "3456",
-  "name": "praveen",
+  "name": "vamsi sir",
   "study": "B TECH",
   "age": 28
 
