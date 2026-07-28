@@ -298,7 +298,7 @@ def about():
 
 def contact():
 
-    return "This is contact"
+    return "This is contact This is praveen changes"
 
 if __name__=="__main__":
 
